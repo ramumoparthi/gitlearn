@@ -1,1 +1,1 @@
-this is chapter
+this chapter is now being updated as part of branch c3
